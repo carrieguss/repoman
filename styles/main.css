@@ -23,6 +23,14 @@ body {
 	color: #fff;
 }
 
+.wrapper {
+	width: 85%;
+}
+.box {
+	background: papayawhip;
+	width: 50%;
+}
+
 h1 {
 	font-family: Georgia, "Book Antiqua", Didot, Garamond;
 	font-weight: 400;
