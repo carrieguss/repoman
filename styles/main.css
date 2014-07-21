@@ -24,6 +24,12 @@ body {
 }
 
 h1 {
-	font-weight: 200;
+	font-family: Georgia, "Book Antiqua", Didot, Garamond;
+	font-weight: 400;
 	text-transform: uppercase;
+}
+
+p {
+	font-family: Helvetica, Optima, Futura, sans-serif;
+	font-weight: 200;
 }
